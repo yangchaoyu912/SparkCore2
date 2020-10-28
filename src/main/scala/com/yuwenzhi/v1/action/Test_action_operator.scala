@@ -5,6 +5,9 @@ import org.apache.spark.rdd.RDD
 import org.apache.spark.{SparkConf, SparkContext}
 import org.junit.{After, Test}
 
+/**
+ * test connection
+ */
 class Test_action_operator {
 
   @After
