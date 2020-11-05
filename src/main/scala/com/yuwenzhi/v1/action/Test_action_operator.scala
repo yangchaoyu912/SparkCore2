@@ -12,7 +12,7 @@ class Test_action_operator {
 
   @After
   def close(): Unit ={
-    //5.关闭
+    //5.关闭ggg
     sc.stop()
   }
 
